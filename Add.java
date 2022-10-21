@@ -20,7 +20,7 @@ public class Add
   Add a=new Add();
  // System.out.println(a.add(2,4));
   //System.out.println(a.add(4,6,7));
-  
+   System.out.println(Add.add(2.4f,4.8f,6.7f));
   System.out.println(Add.add(2.5f,4.8f,6.7f));
   System.out.println(Add.add(4,6,7));
   System.out.println(Add.add(4.5f,6.4f));
